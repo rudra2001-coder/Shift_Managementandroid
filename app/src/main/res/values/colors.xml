@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <!-- Secondary/accent colors -->
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Status colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="error_red">#F44336</color>
+
+    <!-- Surface/background colors -->
+    <color name="surface">#FFF8F9FA</color>
+    <color name="surface_variant">#FFE1E2E1</color>
+    <color name="background">#FFFFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#DE000000</color>
+    <color name="text_secondary">#8A000000</color>
+    <color name="text_tertiary">#61000000</color>
+    <color name="text_primary_dark">#FFFFFFFF</color>
+    <color name="text_secondary_dark">#B3FFFFFF</color>
+
+    <!-- Component colors -->
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="fab_background">?attr/colorPrimary</color>
+    <color name="divider">#1F000000</color>
+
+    <!-- Shift status colors -->
+    <color name="shift_scheduled">#2196F3</color>
+    <color name="shift_in_progress">#4CAF50</color>
+    <color name="shift_completed">#9E9E9E</color>
+    <color name="shift_cancelled">#F44336</color>
+
+    <!-- Dark mode colors -->
+    <color name="dark_surface">#FF121212</color>
+    <color name="dark_surface_variant">#FF1E1E1E</color>
+    <color name="dark_background">#FF000000</color>
+</resources>
