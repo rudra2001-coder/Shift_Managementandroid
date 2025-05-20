@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, please reach out to:
 
 * **Name**: Mahmudul Hasan Rudra
-* **Email**: *[your.email@example.com](mailto:mhrudra064@egample.com)*
+* **Email**: *[Rudra](mailto:mhrudra064@egample.com)*
 * **LinkedIn**: [Mahmudul Hasan Rudra](https://www.linkedin.com/in/mahmudul-hasan-rudra/)
 * **Portfolio**: [https://rudra2001-coder.github.io/my/](https://rudra2001-coder.github.io/my/)
 
